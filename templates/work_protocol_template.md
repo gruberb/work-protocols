@@ -1,6 +1,6 @@
 # Work Protocol Template: Software Engineer
 
-## Date: \***\*\_\_\*\***
+## Date: `_____` / `___` / `___`
 
 ## Prepartions for the day
 
@@ -11,6 +11,11 @@
 
 ## Issues I am working on today
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -30,9 +35,19 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## What are the constraints?
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -46,6 +61,11 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## What do I want to have accomplished by the end of the day?
 
@@ -54,9 +74,19 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## What do I want to have learned by the end of the day?
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;

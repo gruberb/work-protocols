@@ -65,4 +65,4 @@ _Especially in vague, unclear work environments (StartUps, leaderless team, open
 - Take a cold shower (30s to 1 min.).
 - Go for a run (<1h).
 - Step away from the screen, walk outside and outline the issue in my head.
-  Medidate.
+- Medidate.

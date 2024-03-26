@@ -10,7 +10,7 @@ This protocol is aimed to help keep the focus during the work day, by setting cl
 
 ### Preparing
 
-- [ ] Have a daily journey ready to note down questions, ideas and learnings.
+- [ ] Have a daily journal ready to note down questions, ideas and learnings.
 - [ ] Have 2l of water ready at the desk.
 
 ### Reasoning

@@ -49,7 +49,6 @@ _Especially in vague, unclear work environments (StartUps, leaderless team, open
 
 ### Staying on track
 
-- Use ChatGPT to explain the problem to gain new insights into possible solutions.
 - Figure out key metrics of the task being well done.
 - Ask stakeholders for early feedback, or on input during the work.
 
